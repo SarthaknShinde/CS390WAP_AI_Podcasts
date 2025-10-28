@@ -22,6 +22,13 @@
   "dependencies": {
     "axios": "^1.6.0",
     "dotenv": "^16.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgondil/cs390-podcast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tgondil/cs390-podcast/issues"
+  },
+  "homepage": "https://github.com/tgondil/cs390-podcast#readme"
 }
-

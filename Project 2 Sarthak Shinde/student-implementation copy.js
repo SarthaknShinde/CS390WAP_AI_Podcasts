@@ -145,10 +145,7 @@ async function generateScript(articles) {
                   { text: prompt }
                 ]
               }
-              
             ]
-            
-
           };
         
         // TODO: Make the POST request
